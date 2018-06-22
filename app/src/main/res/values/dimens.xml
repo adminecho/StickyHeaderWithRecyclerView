@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="recycler_section_header_height">20dp</dimen>
+
+
+    <!-- Common : Space -->
+    <dimen name="space_1dp">1dp</dimen>
+    <dimen name="space_2dp">2dp</dimen>
+    <dimen name="space_3dp">3dp</dimen>
+    <dimen name="space_5dp">5dp</dimen>
+    <dimen name="space_10dp">10dp</dimen>
+    <dimen name="space_15dp">15dp</dimen>
+    <dimen name="space_20dp">20dp</dimen>
+    <dimen name="space_22dp">22dp</dimen>
+    <dimen name="space_25dp">25dp</dimen>
+    <dimen name="space_30dp">30dp</dimen>
+    <dimen name="space_35dp">35dp</dimen>
+    <dimen name="space_40dp">40dp</dimen>
+    <dimen name="space_45dp">45dp</dimen>
+    <dimen name="space_50dp">50dp</dimen>
+    <dimen name="space_55dp">55dp</dimen>
+    <dimen name="space_60dp">60dp</dimen>
+    <dimen name="space_65dp">65dp</dimen>
+    <dimen name="space_70dp">70dp</dimen>
+    <dimen name="space_75dp">75dp</dimen>
+    <dimen name="space_80dp">80dp</dimen>
+    <dimen name="space_85dp">85dp</dimen>
+    <dimen name="space_90dp">90dp</dimen>
+    <dimen name="space_95dp">95dp</dimen>
+    <dimen name="space_100dp">100dp</dimen>
+    <dimen name="space_130dp">130dp</dimen>
+    <dimen name="space_150dp">150dp</dimen>
+    <dimen name="space_170dp">170dp</dimen>
+    <dimen name="space_180dp">180dp</dimen>
+    <dimen name="space_200dp">200dp</dimen>
+    <dimen name="space_210dp">210dp</dimen>
+    <dimen name="space_220dp">220dp</dimen>
+    <dimen name="space_230dp">230dp</dimen>
+    <dimen name="space_250dp">250dp</dimen>
+    <dimen name="space_260dp">260dp</dimen>
+    <dimen name="space_270dp">270dp</dimen>
+    <dimen name="space_280dp">280dp</dimen>
+    <dimen name="space_290dp">290dp</dimen>
+    <dimen name="space_300dp">300dp</dimen>
+
+    <!-- Common : TEXT SIZE -->
+    <dimen name="font_size_9sp">9sp</dimen>
+    <dimen name="font_size_10sp">10sp</dimen>
+    <dimen name="font_size_12sp">12sp</dimen>
+    <dimen name="font_size_14sp">14sp</dimen>
+    <dimen name="font_size_16sp">16sp</dimen>
+    <dimen name="font_size_18sp">18sp</dimen>
+    <dimen name="font_size_20sp">20sp</dimen>
+    <dimen name="font_size_22sp">22sp</dimen>
+    <dimen name="font_size_24sp">24sp</dimen>
+    <dimen name="font_size_26sp">26sp</dimen>
+    <dimen name="font_size_28sp">28sp</dimen>
+    <dimen name="font_size_30sp">30sp</dimen>
+    <dimen name="font_size_60sp">60sp</dimen>
+
+    <!-- Common : Rounded Image -->
+    <dimen name="img_pro_width_height_75px">50dp</dimen>
+    <dimen name="img_pro_width_height_100px">66dp</dimen>
+    <dimen name="img_pro_width_height_120px">80dp</dimen>
+
+    <dimen name="layout_radius_large">192dp</dimen>
+    <dimen name="layout_radius_medium">168dp</dimen>
+    <dimen name="layout_radius_small">144dp</dimen>
+    <dimen name="layout_radius_tumblr">135dp</dimen>
+    <dimen name="layout_radius_path">140dp</dimen>
+
+    <dimen name="layout_child_offset_large">144dp</dimen>
+    <dimen name="layout_child_offset_medium">120dp</dimen>
+    <dimen name="layout_child_offset_small">96dp</dimen>
+    <dimen name="layout_child_offset_tumblr">100dp</dimen>
+    <dimen name="layout_child_offset_path">114dp</dimen>
+
+    <dimen name="item_circle_size_large">72dp</dimen>
+    <dimen name="item_circle_size_medium">48dp</dimen>
+    <dimen name="item_circle_size_small">36dp</dimen>
+    <dimen name="item_circle_size_tumblr">70dp</dimen>
+    <dimen name="item_circle_size_path">60dp</dimen>
+
+    <dimen name="item_font_size_large">32sp</dimen>
+    <dimen name="item_font_size_medium">24sp</dimen>
+    <dimen name="item_font_size_small">16sp</dimen>
+    <dimen name="item_font_size_tumblr">30sp</dimen>
+    <dimen name="item_font_size_path">8sp</dimen>
+</resources>
